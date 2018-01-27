@@ -8,7 +8,7 @@ This program prints my name.
 
 int main(int argc, char **argb) 
 {
-printf("Maricela Paramo!\n");
+printf("Maricela Paramo and Kenny Olivares!\n");
 
 return 0;
 }
